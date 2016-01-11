@@ -45,8 +45,8 @@
         <version>3.3</version>
          
             <configuration>
-              <includeScope>compile</includeScope>
               
+              <verbose>true</verbose>
             </configuration>
           
       </plugin>
